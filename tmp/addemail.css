@@ -1,0 +1,14 @@
+body {
+    width: 38%;
+}
+
+.sub {
+    border: solid 1px;
+    border-radius: 8px;
+}
+
+.twoimg {
+    float: right;
+    height: 350px;
+    width: 200px
+}
